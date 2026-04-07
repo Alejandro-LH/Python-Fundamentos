@@ -1,4 +1,9 @@
-# Python
+# Python - Fundamentos
+
+Este repositorio contiene apuntes y ejercicios básicos de programación en Python, incluyendo variables, estructuras de datos, operadores y condicionales.
+
+Autor: Alejandro López  
+Carrera: Ingeniería en Computación Inteligente
 
 ## Variables
 
